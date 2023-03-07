@@ -1,0 +1,12 @@
+{
+  "name": "node_workout",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
